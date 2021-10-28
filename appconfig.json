@@ -1,0 +1,14 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+
+  "ConnectionStrings": {
+    "Default": "Server = localhost; Port = 3306; Database = mail_db; Uid = root; Pwd = root;"
+  }
+}
